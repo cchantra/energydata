@@ -1,0 +1,7 @@
+CRAC3/*.csv filter=lfs diff=lfs merge=lfs -text
+CRAC4/*.csv filter=lfs diff=lfs merge=lfs -text
+ULC5/*.csv filter=lfs diff=lfs merge=lfs -text
+ULC6/*.csv filter=lfs diff=lfs merge=lfs -text
+*.txt filter=lfs diff=lfs merge=lfs -text
+power_test.csv filter=lfs diff=lfs merge=lfs -text
+*.csv filter=lfs diff=lfs merge=lfs -text
